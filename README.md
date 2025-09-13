@@ -34,3 +34,6 @@ To run the tool open the terminal in the project folder and run
 ```bash
 python main.py
 ```
+
+## AI Disclaimer
+In all the project is used GitHub Copilot just as assistant to the coding, so the logic operations and the ideas of all the projects are of the developer. The AI helped just to write code fast (for example when it is repetitive), to write the comments (the less important) and helped to learn how to use some libraries (for example for a project I'd used psutil, the AI helped me to study the docs of the library).
