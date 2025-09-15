@@ -1,6 +1,6 @@
 # netTools/FramePkt.py
 # This module defines the FramePkt class, which is responsible for preparing and sending ARP frames over a network.
-# This project is under the GNU General Public License v3.0 (GPL-3.0).
+# This project is under the MIT License.
 
 from scapy.all import Ether, ARP, srp
 from socket import gethostbyname, gethostbyaddr

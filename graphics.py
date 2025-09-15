@@ -1,6 +1,6 @@
 # netTools/graphics.py
 # This module contains the graphical user interface (GUI) for the NetTools application
-# This project is under the GNU General Public License v3.0 (GPL-3.0).
+# This project is under the MIT License.
 
 from tkinter import Frame, Label, PhotoImage, Entry, Button, Text, Scrollbar
 from tkinter import N, S, E, W, BOTH, NORMAL, END, DISABLED
@@ -67,13 +67,12 @@ def menuGestor(functionName): # Manage the menu selection and update the graphic
 
         aboutLabel = Label(mainFrame, text='''========================= Info =========================
 NetTools - Pro Network Analyzer
-Summer of Making 2025 Edition
 
-Author: Gianluca Rainis ( __grdev on summer.hackclub.com )
+Author: Gianluca Rainis
 
-This project is under the GNU General Public License v3.0 (GPL-3.0).
+This project is under the MIT License.
 
-GitHub: https://github.com/rainis-gianluca/SummerOfMaking2025.git
+GitHub: https://github.com/gianluca-rainis/netTools.git
 
 EDUCATIONAL PURPOSES ONLY
 
